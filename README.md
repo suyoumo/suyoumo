@@ -5,5 +5,4 @@
 
 - My undergraduate major is **software engineering**
 - I am interested in large models and currently working in this field. When I have free time, I will update my project
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyoumo&show_icons=true&locale=en" alt="suyoumo" /></p>
-
+<p>&nbsp;
